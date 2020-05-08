@@ -1,4 +1,4 @@
-# whatsappBroadcast
+# broadcastMessage
 Automated broadcast message using selenium.
 
 
